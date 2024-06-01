@@ -1,0 +1,39 @@
+
+
+
+
+
+nav.navbar {
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease; 
+}
+
+
+nav.navbar-inverse {
+    background-color: #f7f7f7;
+    border-color: #080808; 
+}
+
+
+
+.main-text-color {
+    color: #00a8ec; 
+}
+
+.main-color {
+    background-color: #00a8ec; 
+}
+
+
+#myheader {
+    background: url("myheader.png") no-repeat center top fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px; 
+}
+      
+#myheader .myoverlay {
+    background-color: rgba(0, 168, 236, 0.6);
+    width: 100%;
+    min-height: 700px; }
+      
